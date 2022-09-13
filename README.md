@@ -2,8 +2,9 @@
 + 프로그래밍 언어
   + C/C++
   + C#(.NET)
+  + PHP
   + TypeScript
-  + 안드로이드(Java)/IOS(Swift)
+  + 안드로이드(Java)/iOS(Swift)
   
 + 게임
   + 유니티
