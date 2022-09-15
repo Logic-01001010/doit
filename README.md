@@ -27,9 +27,11 @@
   + 치트 엔진
   + x64dbg
   
-
+  ## 2.1. 참고 글
+  + 리버싱
+    + https://reversecore.com/18?category=216978
   
-  ## 2.1. 모의 해킹 연습 사이트
+  ## 2.2. 모의 해킹 연습 사이트
   + 웹 해킹
     + https://webhacking.kr/
     
